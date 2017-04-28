@@ -11,7 +11,7 @@
     "aws",
     "aws-iot",
     "iot",
-    "thing-shadow",
+    "thingShadow",
     "shadow",
     "promise"
   ],
