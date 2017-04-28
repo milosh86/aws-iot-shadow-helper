@@ -1,0 +1,26 @@
+{
+  "name": "aws-iot-shadow-helper",
+  "version": "0.1.0",
+  "description": "Promise based API for AWS IoT ThingShadow",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "aws-iot",
+    "iot",
+    "thing-shadow",
+    "shadow",
+    "promise"
+  ],
+  "author": "Milos Dzepina (milos.dzepina@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "webpack": "^2.4.1"
+  }
+}
