@@ -1,4 +1,4 @@
-# AWS IoT thingShadow Helper
+# AWS IoT thingShadow Helper Library
 
 ## Overview
 Helper library which aims to simplify the usage of not so intuitive AWS
@@ -73,8 +73,7 @@ async function shadowUsageSample() {
 
 ### <a name="init">ShadowHelper.init(thingShadow : awsIoT.thingShadow) : void</a>
 Initialize ShadowHelper with the instance of awsIot.thingShadow class.
-Immediately after initialization, the rest of ShadowHelper's API can be
-used.
+The rest of ShadowHelper's API can be used immediately after initialization.
 
 ### <a name="register">ShadowHelper.registerThingAsync(thingName: string, [options]: Object): Promise\<void\></a>
 Promisified version of [awsIot.thingShadow#register](https://github.com/aws/aws-iot-device-sdk-js#register) method.
