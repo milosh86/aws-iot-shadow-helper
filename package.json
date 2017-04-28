@@ -15,6 +15,10 @@
     "shadow",
     "promise"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/milosh86/aws-iot-shadow-helper.git"
+  },
   "author": "Milos Dzepina (milos.dzepina@gmail.com)",
   "license": "MIT",
   "devDependencies": {

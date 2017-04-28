@@ -13,14 +13,14 @@ This library provides more intuitive, promise based API for thingShadow's
 
 ```
 npm install aws-iot-device-sdk
-npm install aws-shadow-helper
+npm install aws-iot-shadow-helper
 ```
 
 ## Usage Examples
 
 ```
 const AWSIoT = require('aws-iot-device-sdk');
-const ShadowHelper = require('aws-shadow-helper');
+const ShadowHelper = require('aws-iot-shadow-helper');
 
 // see aws-iot-device-sdk for details about thingShadow setup
 const thingShadow = AWSIoT.thingShadow({
