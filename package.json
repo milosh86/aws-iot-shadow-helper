@@ -1,6 +1,6 @@
 {
   "name": "aws-iot-shadow-helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promise based API for AWS IoT ThingShadow",
   "main": "build/index.js",
   "scripts": {
@@ -16,8 +16,8 @@
     "promise"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/milosh86/aws-iot-shadow-helper.git"
+    "type": "git",
+    "url": "https://github.com/milosh86/aws-iot-shadow-helper.git"
   },
   "author": "Milos Dzepina (milos.dzepina@gmail.com)",
   "license": "MIT",
