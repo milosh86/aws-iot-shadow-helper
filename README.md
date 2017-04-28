@@ -1,4 +1,4 @@
-# AWS IoT thingShadow Helper
+# AWS IoT thingShadow Helper Library
 
 ## Overview
 Helper library which aims to simplify the usage of not so intuitive AWS
