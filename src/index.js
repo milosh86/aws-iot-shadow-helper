@@ -203,4 +203,4 @@ const ShadowHelper = {
 
 };
 
-export default ShadowHelper;
+module.exports = ShadowHelper;

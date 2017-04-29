@@ -1,6 +1,6 @@
 {
   "name": "aws-iot-shadow-helper",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "Promise based API for AWS IoT ThingShadow",
   "main": "build/index.js",
   "scripts": {

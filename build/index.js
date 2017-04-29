@@ -83,9 +83,6 @@ return /******/ (function(modules) { // webpackBootstrap
 "use strict";
 
 
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
 /**
  * @fileoverview shadow-helper.js
  *
@@ -299,7 +296,7 @@ var ShadowHelper = {
   }
 };
 
-exports.default = ShadowHelper;
+module.exports = ShadowHelper;
 
 /***/ })
 /******/ ]);
